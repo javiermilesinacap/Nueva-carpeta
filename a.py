@@ -1,3 +1,4 @@
+# Este programa, es una calculadora básica
 import tkinter as tk
 from tkinter import messagebox
 
